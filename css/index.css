@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.logo{
+    background: #043259;
+}
+
+a{
+    color: white;
+}
+
+.menu{
+
+    background:rgb(12, 175, 240);
+    
+}
+
+.w{
+    font-size: 20px;
+}
+.i{
+    font-size: 20px;
+}
+
+.f{
+    font-size: 20px;
+}
+.w:hover{
+    color: #0ada52;
+}
+.f:hover{
+    color: #056CF2;
+}
+
+.nome:hover{
+
+    font-size: 30px;
+    font-family: Bold;
+}
+.menu a:hover{
+    color: #043259;
+}
+
+.banner{
+    background: url("../img/programadorweb.jpg");
+    background-size: cover;
+
+    width: 100%;
+    height: 500px;
+}
